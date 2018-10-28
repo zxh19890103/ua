@@ -1,0 +1,23 @@
+{
+  "name": "ua",
+  "version": "1.0.0",
+  "description": "an utility to check the user agent information, like engine,browser,verson,platform,.etc..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxh19890103/ua.git"
+  },
+  "keywords": [
+    "user",
+    "agent"
+  ],
+  "author": "Singhi John",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zxh19890103/ua/issues"
+  },
+  "homepage": "https://github.com/zxh19890103/ua#readme"
+}
