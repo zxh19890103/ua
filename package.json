@@ -1,6 +1,6 @@
 {
   "name": "ua2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "an utility to check the user agent information, like engine,browser,verson,platform,.etc..",
   "main": "index.js",
   "scripts": {
